@@ -2,7 +2,7 @@
 
 void foo() {
     char *str1 = "hello";
-    pritnf("%p\n", (void*)str1);
+    printf("%p\n", (void*)str1);
 }
 
 void bar() {
